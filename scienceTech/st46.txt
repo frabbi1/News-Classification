@@ -1,0 +1,5 @@
+"If we remember the Apollo generation, we remember Neil Armstrong and Buzz Aldrin, they bunny hopped on the surface of the Moon," NASA administrator Jim Bridenstine told a hall filled with students and interns at the space agency.
+"Now we're going to be able to walk on the surface of the Moon, which is very different from the suits of the past."
+Another key innovation is the xEMU's unlimited capacity to absorb carbon dioxide, a byproduct of respiration that is also poisonous in high quantities.
+It achieves this through a system that both absorbs and then removes the gas into the vacuum of space, unlike current systems that merely absorb it until its reaches a saturation point.
+The agency views its return to the Moon as a proving ground for an onward mission to Mars in the 2030s.

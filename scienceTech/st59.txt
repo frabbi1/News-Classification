@@ -1,0 +1,5 @@
+The ImmuniWeb researchers analysed nearly 20 million passwords and claim that only 4.9 million were unique.
+The industries with the highest number of stolen credentials were quite alarming.
+The technology was at the highest with 5 million exposed passwords.
+This was followed by financials with 4.9 million passwords.
+The report adds that about 42% of all the stolen passwords were linked in one way or the other to the company name concerned or the breached resource.

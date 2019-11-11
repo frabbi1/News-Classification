@@ -1,0 +1,5 @@
+After arriving for iPhone users quite a while back, WhatsApp has finally launched its biometric security authentication on Android devices.
+After a short span of beta testing, the fingerprint unlock has finally made its way for all Android handsets.
+In a blog post, WhatsApp states, “Earlier this year, we rolled out Touch ID and Face ID for iPhone to provide an extra layer of security for WhatsApp users.
+To enable it, all you need to do is head into Settings> Account> Privacy> Fingerprint Unlock.
+This is a convenient feature as you may not want to unlock your conversations every time you access the app.

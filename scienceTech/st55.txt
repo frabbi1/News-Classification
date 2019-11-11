@@ -1,0 +1,5 @@
+The Pentagon wants to replace ageing computer networks with a single cloud system.
+The Pentagon has awarded a $10bn (£8bn) cloud-computing contract to Microsoft, following a heavily scrutinised bidding process in which Amazon had been seen as the favourite.
+The Department of Defense wants to replace its ageing computer networks with a single cloud system.
+Under the contract, Microsoft will provide artificial intelligence-based analysis and host classified military secrets among other services.
+It is hoped that Jedi will give the military better access to data and the cloud from battlefields.

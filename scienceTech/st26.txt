@@ -1,0 +1,5 @@
+But fragments of data on a quantum computer, known as qubits, can be both 1 and 0 at the same time.
+This property, known as superposition, means a quantum computer, made up of several qubits, can crunch an enormous number of potential outcomes simultaneously.
+In a study published in Nature, the international team designed the Sycamore quantum processer, made up of 54 qubits interconnected in a lattice pattern.
+After a leaked draft of the Google lab's paper appeared online last month, chip-maker IBM, which runs its own quantum computing programme, said the boasts of the Sycamore computer's feats were exaggerated.
+"Because the original meaning of the term 'quantum supremacy'... was to describe the point where quantum computers can do things that classical computers can't, this threshold has not been met," they wrote on their blog.

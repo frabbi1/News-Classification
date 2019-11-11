@@ -1,0 +1,5 @@
+Microsoft Corp said it has tracked "significant" cyber attacks coming from a group it calls "Strontium" or "Fancy Bear", targeting anti-doping authorities and global sporting organizations.
+The group, also called APT28, has been linked to the Russian government, Microsoft said in a blog post.
+At least 16 national and international sporting and anti-doping organizations across three continents were targeted in the attacks which began on 16 September, according to the company.
+Microsoft has in the past taken legal steps o prevent Strontium from using fake Microsoft internet domains to execute its attacks.
+Microsoft said at the time that hackers linked to Russia's government sought to launch cyber attacks on US political groups.

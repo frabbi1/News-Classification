@@ -1,0 +1,5 @@
+An Uber self-driving car that struck and killed a woman last year in Arizona failed to recognize her as a pedestrian because she was jaywalking, US transport regulators said Tuesday.
+It did, however, produce "an auditory alert to the vehicle operator as it initiated a plan for the vehicle slowdown."
+Following the March 2018 accident, Uber suspended its autonomous driving testing in all locations in the United States but resumed the program several months later.
+The company has assured the NTSB that new technology in the cars will correctly recognize pedestrians in similar situations and trigger braking more than four seconds before impact.
+According to the report, 37 crashes involving Uber automatic test vehicles operating in autonomous mode occurred between September 2016 and March 2018, excluding the Arizona crash.

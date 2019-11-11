@@ -1,0 +1,5 @@
+Facebook-owned WhatsApp has filed a lawsuit against Israel's NSO Group, alleging the firm was behind cyber-attacks that infected devices with malicious software.
+WhatsApp accuses the company of sending malware to roughly 1,400 mobile phones for the purposes of surveillance.
+NSO Group, which makes software for surveillance, disputed the allegations.
+In a court filing, WhatsApp said NSO Group "developed their malware in order to access messages and other communications after they were decrypted on target devices".
+It said NSO Group created various WhatsApp accounts and caused the malicious code to be transmitted over the WhatsApp servers in April and May.

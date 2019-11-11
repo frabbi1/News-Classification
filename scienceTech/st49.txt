@@ -1,0 +1,5 @@
+Senior government officials in multiple US-allied countries were targeted earlier this year with hacking software that used Facebook Inc's WhatsApp to take over users' phones, according to people familiar with the messaging company's investigation.
+The hacking of a wider group of top government officials' smartphones than previously reported suggests the WhatsApp cyber intrusion could have broad political and diplomatic consequences.
+WhatsApp filed a lawsuit on Tuesday against Israeli hacking tool developer NSO Group.
+The total number of WhatsApp users hacked could be even higher.
+John Scott-Railton, a senior researcher at Citizen Lab, said it was not surprising that foreign officials would be targeted as well.

@@ -1,0 +1,4 @@
+After killing its Daydream mobile-based VR project, Google is preparing its Chrome browser to make it VR-friendly.
+The latest beta version of Chrome supports web-based VR, opening avenues for an immersive web experience, Engadget reports.
+With web-based VR support, developers can build websites with immersive elements such as games, 360-degree videos, and immersive art.
+These sites can then be displayed on a smartphone or head-mounted display.
